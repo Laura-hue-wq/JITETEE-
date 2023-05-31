@@ -53,3 +53,6 @@ User
 
 ## UI
 ![alt text](https://github.com/Laura-hue-wq/JitetEE/blob/main/images/image.png?raw=true)
+
+![alt text](https://github.com/Laura-hue-wq/JitetEE/blob/main/images/qimage.png?raw=true)
+
