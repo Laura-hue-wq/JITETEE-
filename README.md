@@ -51,8 +51,9 @@ Note: The above instructions assume you are using Python 3. If you have both Pyt
 User
 
 ### Pending Tasks
-- [ ] Language model to break language barrier
-- [ ] Model that does not rely on openai
+- [ ] Add Language model to break language barrier
+- [ ] Add Model that does not rely on openai
+- [ ] Add USSD Voice/Text
    
 
 ### Completed ✓
