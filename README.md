@@ -50,6 +50,12 @@ Note: The above instructions assume you are using Python 3. If you have both Pyt
 ).
 User
 
+### Tasks
+- [ ] Language model to break language barrier ~3d #type @name yyyy-mm-dd  
+   
+
+### Completed Column ✓
+- [x] Completed task title  
 
 ## UI
 ![alt text](https://github.com/Laura-hue-wq/JitetEE/blob/main/images/image.png?raw=true)
