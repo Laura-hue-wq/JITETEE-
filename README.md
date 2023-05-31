@@ -50,12 +50,13 @@ Note: The above instructions assume you are using Python 3. If you have both Pyt
 ).
 User
 
-### Tasks
-- [ ] Language model to break language barrier ~3d #type @name yyyy-mm-dd  
+### Pending Tasks
+- [ ] Language model to break language barrier
+- [ ] Model that does not rely on openai
    
 
-### Completed Column ✓
-- [x] Completed task title  
+### Completed ✓
+- [x] AI based Law queries  
 
 ## UI
 ![alt text](https://github.com/Laura-hue-wq/JitetEE/blob/main/images/image.png?raw=true)
