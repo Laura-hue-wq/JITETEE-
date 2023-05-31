@@ -8,19 +8,18 @@ To set up a Python environment for JITETEE, you can follow these steps:
     Create a virtual environment: It's recommended to create a virtual environment to isolate the dependencies for JITETEE from your system-wide Python installation. Open a terminal or command prompt and navigate to the desired directory where you want to create the virtual environment.
 
     Run the following command to create a new virtual environment named "jitetee-env" using the built-in venv module in Python:
-```
+```powershell
 python3 -m venv jitetee-env
 ```
 Activate the virtual environment: Once the virtual environment is created, you need to activate it before installing any packages or running JITETEE. The activation process varies depending on your operating system.
 
     Windows: Run the following command:
-```
+```powershell
 .\jitetee-env\Scripts\activate
 ```
 Unix/Linux: Run the following command:
 
-bash
-```
+```bash
 source jitetee-env/bin/activate
 ```
 Install dependencies: With the virtual environment activated, you can proceed to install the necessary dependencies for JITETEE. Typically, the project should have a requirements.txt file that lists all the dependencies. You can use the pip package manager to install them.
@@ -38,9 +37,9 @@ Verify installation: Once the dependencies are installed successfully, you can v
 
 For example, you might have a main.py file in the project directory. You can run it using the following command:
 
-``bash
+```bash
 python manage.py runserver
-``
+```
 
 If JITETEE starts up without any errors, then your setup is complete and ready for further development or usage.
 
