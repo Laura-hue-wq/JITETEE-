@@ -52,4 +52,4 @@ User
 
 
 ## UI
-[![Watch the video](https://github.com/Laura-hue-wq/JitetEE/blob/main/2023-03-12%2023-35-07.mp4)
+[![Watch the video]](https://github.com/Laura-hue-wq/JitetEE/blob/main/2023-03-12%2023-35-07.mp4)
